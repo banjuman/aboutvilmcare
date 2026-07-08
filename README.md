@@ -4,7 +4,7 @@ Free Windows audio optimization tool for musicians and creators.
 
 Vilm Care helps musicians, video creators, and anyone working on Windows get the most out of their PC for content creation. It handles the complex technical side of audio and system optimization so that even people with no technical background can set up a clean, reliable environment for recording, production, and creative work.
 
-<img width="1018" height="1289" alt="image" src="https://github.com/user-attachments/assets/8d28307e-00e3-4ee0-ad30-9e42f67e71c8" />
+<img width="1544" height="950" alt="image" src="https://github.com/user-attachments/assets/f2ceabb4-3cdc-4974-9ae1-69a33fac72d2" />
 
 
 ## Features
